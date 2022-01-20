@@ -39,6 +39,7 @@
      <Compile Include="Assets\Script\CrashDetector.cs" />
      <Compile Include="Assets\Script\FinishLine.cs" />
      <Compile Include="Assets\Script\Player.cs" />
+     <Compile Include="Assets\Script\DustTrail.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2021.1.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
